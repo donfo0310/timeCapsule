@@ -1,0 +1,42 @@
+/* Class = "UIButton"; normalTitle = "1年後"; ObjectID = "0ip-yX-4l5"; */
+"0ip-yX-4l5.normalTitle" = "1年後";
+
+/* Class = "UIButton"; normalTitle = "送信"; ObjectID = "4Ob-8x-YLG"; */
+"4Ob-8x-YLG.normalTitle" = "送信";
+
+/* Class = "UIButton"; normalTitle = "３ヶ月後"; ObjectID = "6Wd-QE-H3n"; */
+"6Wd-QE-H3n.normalTitle" = "３ヶ月後";
+
+/* Class = "UIButton"; normalTitle = "5年後"; ObjectID = "8qn-ai-jKc"; */
+"8qn-ai-jKc.normalTitle" = "5年後";
+
+/* Class = "UIButton"; normalTitle = "送信"; ObjectID = "85Z-yJ-bEz"; */
+"85Z-yJ-bEz.normalTitle" = "送信";
+
+/* Class = "UILabel"; text = "何年後にメッセージを書くか選んで下さい"; ObjectID = "OWh-iV-Cf6"; */
+"OWh-iV-Cf6.text" = "何年後にメッセージを書くか選んで下さい";
+
+/* Class = "UIButton"; normalTitle = "半年後"; ObjectID = "Tv2-IL-U6C"; */
+"Tv2-IL-U6C.normalTitle" = "半年後";
+
+/* Class = "UIButton"; normalTitle = "送信"; ObjectID = "U3Y-E5-ntu"; */
+"U3Y-E5-ntu.normalTitle" = "送信";
+
+/* Class = "UILabel"; text = "これはタイムカプセルです"; ObjectID = "XAL-H3-ywE"; */
+"XAL-H3-ywE.text" = "     これはタイムカプセルです";
+
+/* Class = "UIButton"; normalTitle = "送信"; ObjectID = "ZnY-dW-fdA"; */
+"ZnY-dW-fdA.normalTitle" = "送信";
+
+/* Class = "UIButton"; normalTitle = "送信"; ObjectID = "aNU-Y4-p5M"; */
+"aNU-Y4-p5M.normalTitle" = "送信";
+
+/* Class = "UIButton"; normalTitle = "１０年後"; ObjectID = "kNU-dw-QIo"; */
+"kNU-dw-QIo.normalTitle" = "１０年後";
+
+/* Class = "UIButton"; normalTitle = "20年後"; ObjectID = "pCw-MB-eUl"; */
+"pCw-MB-eUl.normalTitle" = "20年後";
+
+/* Class = "UIButton"; normalTitle = "送信"; ObjectID = "rTH-cZ-sCd"; */
+"rTH-cZ-sCd.normalTitle" = "送信";
+

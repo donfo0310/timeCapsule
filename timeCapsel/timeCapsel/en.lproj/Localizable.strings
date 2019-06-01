@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  TimeCapsule
+
+  Created by 岡本航輝 on 2016/09/10.
+  Copyright © 2016年 mycompany. All rights reserved.
+*/
+"３ヶ月後にメッセージを送りました"="You sent message three month later";
+"3ヶ月後にメッセージが届きます"="this message will arrive three month later";
+"過去からメッセージが届きました"="message written in past come";
+"メッセージは届けられている途中です"="message is sending";
+"/にメッセージがきます"="　message will come";
+"/にメッセージが届きます"="　message will come";
+"半年後にメッセージを送りました。"="You sent message six month later";
+"半年後に届けるメッセージです"="this message will arrive six month later";
+"1年後にメッセージを送りました。"="You sent message one year later";
+"5年後にメッセージを送りました。"="You sent message five year later";
+"10年後にメッセージを送りました。"="You sent message ten year later";
+"20年後にメッセージを送りました。"="You sent message twenty year later";
+"1年後に届けるメッセージです"="this message will arrive one year later";
+"5年後に届けるメッセージです"="this message will arrive five year later";
+"10年後に届けるメッセージです"="this message will arrive ten year later";
+"20年後に届けるメッセージです"="this message will arrive twenty year later";
+"警告"="caution!";
+"手紙を送ってもいいですか?"="Do you send the letter?";

@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  TimeCapsule
+
+  Created by 岡本航輝 on 2016/09/10.
+  Copyright © 2016年 mycompany. All rights reserved.
+*/
+ "３ヶ月後にメッセージを送りました"="sent message three month later";
+"三ヶ月後にメッセージが届きます"="this message will arrive three month later";
+"過去からメッセージが届きました"="message written in past come";
+"メッセージは届けられている途中です"="message is sending";
+"にメッセージがきます"="message will come";

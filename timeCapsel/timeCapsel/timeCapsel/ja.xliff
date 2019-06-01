@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="timeCapsel/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+    </header>
+    <body/>
+  </file>
+  <file original="timeCapsel/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+    </header>
+    <body>
+      <trans-unit id="0ip-yX-4l5.normalTitle">
+        <source>1年後</source>
+        <target>1年後</target>
+        <note>Class = "UIButton"; normalTitle = "1年後"; ObjectID = "0ip-yX-4l5";</note>
+      </trans-unit>
+      <trans-unit id="4Ob-8x-YLG.normalTitle">
+        <source>送信</source>
+        <target>送信</target>
+        <note>Class = "UIButton"; normalTitle = "送信"; ObjectID = "4Ob-8x-YLG";</note>
+      </trans-unit>
+      <trans-unit id="6Wd-QE-H3n.normalTitle">
+        <source>３ヶ月後</source>
+        <target>３ヶ月後</target>
+        <note>Class = "UIButton"; normalTitle = "３ヶ月後"; ObjectID = "6Wd-QE-H3n";</note>
+      </trans-unit>
+      <trans-unit id="8qn-ai-jKc.normalTitle">
+        <source>5年後</source>
+        <target>5年後</target>
+        <note>Class = "UIButton"; normalTitle = "5年後"; ObjectID = "8qn-ai-jKc";</note>
+      </trans-unit>
+      <trans-unit id="85Z-yJ-bEz.normalTitle">
+        <source>送信</source>
+        <target>送信</target>
+        <note>Class = "UIButton"; normalTitle = "送信"; ObjectID = "85Z-yJ-bEz";</note>
+      </trans-unit>
+      <trans-unit id="OWh-iV-Cf6.text">
+        <source>何年後にメッセージを書くか選んで下さい</source>
+        <target>何年後にメッセージを書くか選んで下さい</target>
+        <note>Class = "UILabel"; text = "何年後にメッセージを書くか選んで下さい"; ObjectID = "OWh-iV-Cf6";</note>
+      </trans-unit>
+      <trans-unit id="Tv2-IL-U6C.normalTitle">
+        <source>半年後</source>
+        <target>半年後</target>
+        <note>Class = "UIButton"; normalTitle = "半年後"; ObjectID = "Tv2-IL-U6C";</note>
+      </trans-unit>
+      <trans-unit id="U3Y-E5-ntu.normalTitle">
+        <source>送信</source>
+        <target>送信</target>
+        <note>Class = "UIButton"; normalTitle = "送信"; ObjectID = "U3Y-E5-ntu";</note>
+      </trans-unit>
+      <trans-unit id="XAL-H3-ywE.text">
+        <source>これはタイムカプセルです</source>
+        <target>これはタイムカプセルです</target>
+        <note>Class = "UILabel"; text = "これはタイムカプセルです"; ObjectID = "XAL-H3-ywE";</note>
+      </trans-unit>
+      <trans-unit id="ZnY-dW-fdA.normalTitle">
+        <source>送信</source>
+        <target>送信</target>
+        <note>Class = "UIButton"; normalTitle = "送信"; ObjectID = "ZnY-dW-fdA";</note>
+      </trans-unit>
+      <trans-unit id="aNU-Y4-p5M.normalTitle">
+        <source>送信</source>
+        <target>送信</target>
+        <note>Class = "UIButton"; normalTitle = "送信"; ObjectID = "aNU-Y4-p5M";</note>
+      </trans-unit>
+      <trans-unit id="kNU-dw-QIo.normalTitle">
+        <source>１０年後</source>
+        <target>１０年後</target>
+        <note>Class = "UIButton"; normalTitle = "１０年後"; ObjectID = "kNU-dw-QIo";</note>
+      </trans-unit>
+      <trans-unit id="pCw-MB-eUl.normalTitle">
+        <source>20年後</source>
+        <target>20年後</target>
+        <note>Class = "UIButton"; normalTitle = "20年後"; ObjectID = "pCw-MB-eUl";</note>
+      </trans-unit>
+      <trans-unit id="rTH-cZ-sCd.normalTitle">
+        <source>送信</source>
+        <target>送信</target>
+        <note>Class = "UIButton"; normalTitle = "送信"; ObjectID = "rTH-cZ-sCd";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="timeCapsel/Info.plist" source-language="en" datatype="plaintext" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="timeCapselTests/Info.plist" source-language="en" datatype="plaintext" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="timeCapselUITests/Info.plist" source-language="en" datatype="plaintext" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

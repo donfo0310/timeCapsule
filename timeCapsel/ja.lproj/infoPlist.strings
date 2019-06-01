@@ -1,0 +1,8 @@
+/* 
+  infoPlist.strings
+  TimeCapsule
+
+  Created by 岡本航輝 on 2016/09/10.
+  Copyright © 2016年 mycompany. All rights reserved.
+*/
+CFBundleDisplayName = "タイムカプセル　〜言葉を未来に届ける〜";
